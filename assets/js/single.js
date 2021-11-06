@@ -95,7 +95,7 @@ var displayWarning = function (repo) {
     linkEl.setAttribute("target", "_blank");
 
     // append to warning container
-    limitWarningEl.appendChild(linkEl); 
+    limitWarningEl.appendChild(linkEl);  
 };
 
 
